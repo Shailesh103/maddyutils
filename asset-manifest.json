@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maddyutils/static/css/main.2543b9d3.css",
+    "main.js": "/maddyutils/static/js/main.2bea159b.js",
+    "static/js/787.ccb2c513.chunk.js": "/maddyutils/static/js/787.ccb2c513.chunk.js",
+    "index.html": "/maddyutils/index.html",
+    "main.2543b9d3.css.map": "/maddyutils/static/css/main.2543b9d3.css.map",
+    "main.2bea159b.js.map": "/maddyutils/static/js/main.2bea159b.js.map",
+    "787.ccb2c513.chunk.js.map": "/maddyutils/static/js/787.ccb2c513.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2543b9d3.css",
+    "static/js/main.2bea159b.js"
+  ]
+}
